@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Codewars](https://github.r2v.ch/codewars?user=PutraHidayatA&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+![Codewars](https://github.r2v.ch/codewars?user=PutraHidayatA&hide_clan=true&name=true&top_languages=true&stroke=%23ffeb95&theme=nightowl)
 
 <!--
 **PutraHidayatA/PutraHidayatA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
