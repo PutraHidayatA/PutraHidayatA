@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PutraHidayatA)](https://github.com/PutraHidayatA/github-readme-stats)
+
 ![Codewars](https://github.r2v.ch/codewars?user=PutraHidayatA&hide_clan=true&name=true&top_languages=true&stroke=%23ffeb95&theme=nightowl)
 
 <!--
