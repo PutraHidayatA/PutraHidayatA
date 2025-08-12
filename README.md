@@ -3,20 +3,6 @@
 <span align="center">
     <svg width="60" height="60" viewBox="0 0 60 60">
         <text x="0" y="45" font-size="48" id="svgWave">👋</text>
-        <style>
-            #svgWave {
-                animation: wave 1.5s infinite;
-                transform-origin: 20% 70%;
-            }
-            @keyframes wave {
-                0% { transform: rotate(0deg); }
-                15% { transform: rotate(15deg); }
-                30% { transform: rotate(-10deg); }
-                45% { transform: rotate(15deg); }
-                60% { transform: rotate(0deg); }
-                100% { transform: rotate(0deg); }
-            }
-        </style>
     </svg>
 </span>
 </span>, I'm Putra Hidayat Arifin</h1>
