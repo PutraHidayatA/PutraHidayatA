@@ -1,6 +1,9 @@
 <!-- Header -->
 <div align="center">
-  <h1>Hi there <span aria-hidden="true">👋</span>, I'm Putra Hidayat Arifin</h1>
+  <h1 align="center">
+    Hi there <img src="https://raw.githubusercontent.com/<USER>/<REPO>/main/assets/wave.svg" width="36" height="36" alt="wave">
+    , I'm Putra Hidayat Arifin
+  </h1>
   <p><strong>Full Stack Developer | Problem Solver | Tech Enthusiast</strong></p>
 </div>
 
@@ -13,17 +16,8 @@
 </p>
 
 <!-- Simple static decorative SVG (tanpa animasi agar kompatibel di GitHub) -->
-<p align="center" aria-hidden="true">
-  <svg width="120" height="60" viewBox="0 0 120 60" role="img">
-    <title>Smart Tech motif</title>
-    <polyline points="20,50 40,30 60,40 80,20 100,40" fill="none" stroke="#00eaff" stroke-width="2"/>
-    <circle cx="40" cy="30" r="4" fill="#00eaff"/>
-    <circle cx="60" cy="40" r="4" fill="#00eaff"/>
-    <circle cx="80" cy="20" r="4" fill="#00eaff"/>
-    <circle cx="100" cy="40" r="4" fill="#00eaff"/>
-    <rect x="56" y="18" width="8" height="8" rx="2" fill="#222" stroke="#00eaff" stroke-width="2"/>
-    <text x="60" y="58" font-size="10" fill="#00eaff" text-anchor="middle">Smart Tech</text>
-  </svg>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/<USER>/<REPO>/main/assets/smart-tech.svg" alt="Smart Tech animation">
 </p>
 
 ---
