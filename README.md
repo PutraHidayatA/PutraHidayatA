@@ -28,11 +28,11 @@ Results-driven Full Stack Developer dengan fokus pada aplikasi yang scalable dan
 ---
 
 ### 🚀 Achievements & Projects
-- 🏆 **Top 5% di Codewars** (lihat badge di atas)
-- 🌐 Membangun & deploy web app berdampak menggunakan React/Vue/Node dan cloud
-- ⚡ Otomasi proses bisnis untuk meningkatkan produktivitas tim
-- 📦 Kontributor open-source & komunitas developer
-- 🏅 Konsisten mengirim kode yang robust & maintainable
+* 🏆 **Top 5% on Codewars** (see badge above)
+* 🌐 Build & deploy impactful web apps using Laravel/CI3/Vue/Node and cloud platforms
+* ⚡ Automate business processes to boost team productivity
+* 📦 Contributor to open-source projects & developer communities
+* 🏅 Consistently deliver robust, maintainable code
 
 ---
 
