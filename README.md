@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   <h1 align="center">
-    Hi there <img src="https://raw.githubusercontent.com/<USER>/<REPO>/main/assets/waves.gif" width="36" alt="wave">
+    Hi there <img src="https://raw.githubusercontent.com/PutraHidayatA/PutraHidayatA/main/assets/waves.gif" width="36" alt="wave">
     , I'm Putra Hidayat Arifin
   </h1>
   <p><strong>Full Stack Developer | Problem Solver | Tech Enthusiast</strong></p>
@@ -17,7 +17,7 @@
 
 <!-- Simple static decorative SVG (tanpa animasi agar kompatibel di GitHub) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<USER>/<REPO>/main/assets/smart-tech.svg" width="36" alt="wave">
+  <img src="https://raw.githubusercontent.com/PutraHidayatA/PutraHidayatA/main/assets/smart-tech.svg" width="36" alt="wave">
 </p>
 
 ---
