@@ -23,7 +23,7 @@
 ---
 
 ### 👨‍💻 Professional Summary
-Results-driven Full Stack Developer dengan fokus pada aplikasi yang scalable dan user-centric. Berpengalaman dengan HTML, CSS, JavaScript, TypeScript, PHP, Vue.js, Nuxt.js, Node.js, Express.js, Laravel, CodeIgniter, SQL, RESTful APIs, Bootstrap, Tailwind, dan Vuetify. Terbiasa memecahkan masalah kompleks, mengotomasi workflow, dan kolaborasi lintas tim.
+Results-Driven Full Stack Developer with a focus on scalable and user-centric applications. Experienced with HTML, CSS, Javascript, Typescript, PHP, Vue.js, Nuxt.js, Node.js, Express.js, Laravel, Codeigniter, SQL, Restful Apis, Bootstrap, Tailwind, and Vuetify. Accustomed to solving complex problems, automating workflows, and cross-team collaboration.
 
 ---
 
