@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/PutraHidayatA/PutraHidayatA/main/assets/wave.svg" width="36" height="36" alt="wave">, I'm Putra Hidayat Arifin
+# Hi there <img src="https://raw.githubusercontent.com/PutraHidayatA/PutraHidayatA/main/assets/wave.svg" width="36" height="36" alt="wave"> I'm Putra Hidayat Arifin
 
 <div align="center">
   <strong>Full-Stack Developer · AI Integration & LLM Engineer · Remote-First</strong><br/>
